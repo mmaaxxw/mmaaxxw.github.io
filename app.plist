@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ru.oblakogroup.telescope</string>
+				<string>ru.oblakogroup.telescope-beta</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
